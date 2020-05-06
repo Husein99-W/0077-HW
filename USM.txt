@@ -1,1 +1,2 @@
 UNIVERSITAS SEMARANG
+stash@{0}: WIP on master: ef6b963 branch baru
